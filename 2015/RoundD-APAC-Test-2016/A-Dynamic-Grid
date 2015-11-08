@@ -31,10 +31,7 @@ Large dataset
 Sample
 
 
-Input 
- 	
-Output 
- 
+Input: 
 1
 4 4
 0101
@@ -49,3 +46,11 @@ M 2 2 0
 Q
 M 2 1 0
 Q
+
+
+Output:
+Case #1:
+4
+2
+2
+2
